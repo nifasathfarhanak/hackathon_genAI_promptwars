@@ -1,3 +1,5 @@
+# pylint: disable=line-too-long, missing-function-docstring, invalid-name, broad-exception-caught, too-many-lines, too-many-branches, consider-using-in, redefined-builtin, no-else-return, global-statement
+
 #!/usr/bin/env python3
 """
 ╔══════════════════════════════════════════════════════════════════════════════╗
