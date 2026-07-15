@@ -1179,6 +1179,7 @@ def _build_dashboard_html() -> str:
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#0F172A">
 <meta name="description" content="AI-powered Smart Stadium Operations Hub for FIFA World Cup 2026. Real-time crowd management, multilingual fan assistance, sustainability monitoring, and operational intelligence.">
 <meta name="theme-color" content="#0a0f1c">
 <title>🏟️ Smart Stadium Operations Hub — FIFA World Cup 2026</title>
