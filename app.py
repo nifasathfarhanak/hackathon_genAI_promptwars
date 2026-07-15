@@ -24,9 +24,7 @@ import urllib.request
 import urllib.parse
 import urllib.error
 import html
-import hashlib
 import time
-from io import BytesIO
 from datetime import datetime, timezone
 
 # ═══════════════════════════════════════════════════════════════════════════════
